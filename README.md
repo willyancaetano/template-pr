@@ -2,12 +2,12 @@
 
 ## Descrição
 
-Exemplo de projeto do qual possui template para pull requests. Basicamente é necessário a pasta oculta `.github/PULL_REQUEST_TEMPLATE` ser criada na raiz do repositório e inserir o arquivo md que será carregado como template ao abrir MRs.
+Exemplo de projeto do qual possui template para pull requests. Basicamente é necessário a pasta oculta `.github` ser criada na raiz do repositório e inserir o arquivo md com nome `PULL_REQUEST_TEMPLATE.md`
 
-Após essa configuração estar no branch principal as próximas aberturas de pull request terão a seguinte opção na criação:
+Após essa configuração estar no branch principal as próximas aberturas de pull request já carregarão automaticamente o template no formulário:
 
-![enter image description here](https://docs.gitlab.com/ee/user/project/img/description_templates_v14_7.png)
+![enter image description here](https://github.com/willyancaetano/template-pr/blob/f836497e8834958decc4d16f75df7c6449678d49/img/print_pull_request.png)
 
 ## Referência
 
-- [Description templates](https://docs.gitlab.com/ee/user/project/description_templates.html)  
+- [Description templates](https://docs.gitlab.com/ee/user/project/description_templates.html)
