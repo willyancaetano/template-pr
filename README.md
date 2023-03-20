@@ -10,4 +10,4 @@ Após essa configuração estar no branch principal as próximas aberturas de pu
 
 ## Referência
 
-- [Description templates](https://docs.gitlab.com/ee/user/project/description_templates.html)
+- [Description templates](https://docs.gitlab.com/ee/user/project/description_templates.html)  
