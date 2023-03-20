@@ -6,7 +6,7 @@ Exemplo de projeto do qual possui template para pull requests. Basicamente é ne
 
 Após essa configuração estar no branch principal as próximas aberturas de pull request já carregarão automaticamente o template no formulário:
 
-![enter image description here](https://github.com/willyancaetano/template-pr/blob/f836497e8834958decc4d16f75df7c6449678d49/img/print_pull_request.png)
+![enter image description here](https://github.com/willyancaetano/template-pr/blob/main/img/print_pull_request.png?raw=true)
 
 ## Referência
 
